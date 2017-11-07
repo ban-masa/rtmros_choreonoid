@@ -19,3 +19,8 @@ rtmlaunch hrpsys_choreonoid_tutorials jaxon_red_choreonoid.launch LOAD_OBJECTS:=
 ```
 $ rtmlaunch hrpsys_choreonoid_tutorials chidori_choreonoid.launch
 ```
+### **JAXON_ON_MOON**
+moon version:
+```
+$ rtmlaunch hrpsys_choreonoid_tutorials jaxon_moon_choreonoid.launch
+```

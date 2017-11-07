@@ -173,6 +173,7 @@ configure_file(${PROJECT_SOURCE_DIR}/config/JAXON_RED_RH_FLAT.cnoid.in ${PROJECT
 configure_file(${PROJECT_SOURCE_DIR}/config/JAXON_RED_LOAD_OBJ.cnoid.in ${PROJECT_SOURCE_DIR}/config/JAXON_RED_LOAD_OBJ.cnoid @ONLY)
 
 configure_file(${PROJECT_SOURCE_DIR}/config/JAXON_RED_TUTORIALS.cnoid.in ${PROJECT_SOURCE_DIR}/config/JAXON_RED_TUTORIALS.cnoid @ONLY)
+configure_file(${PROJECT_SOURCE_DIR}/config/JAXON_RED_MOON.cnoid.in ${PROJECT_SOURCE_DIR}/config/JAXON_RED_MOON.cnoid @ONLY)
 
 ###
 #CHIDORI conid
