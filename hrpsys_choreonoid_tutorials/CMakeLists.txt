@@ -197,6 +197,7 @@ endif()
 ###
 configure_file(${PROJECT_SOURCE_DIR}/config/HRP2JSKNT_RH_FLAT.cnoid.in ${PROJECT_SOURCE_DIR}/config/HRP2JSKNT_RH_FLAT.cnoid @ONLY)
 configure_file(${PROJECT_SOURCE_DIR}/config/HRP2JSKNT_FLAT.cnoid.in ${PROJECT_SOURCE_DIR}/config/HRP2JSKNT_FLAT.cnoid @ONLY)
+configure_file(${PROJECT_SOURCE_DIR}/config/HRP2JSKNT_UNEVEN.cnoid.in ${PROJECT_SOURCE_DIR}/config/HRP2JSKNT_UNEVEN.cnoid @ONLY)
 
 ###
 #HRP2JSK conid
